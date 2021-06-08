@@ -14,4 +14,4 @@ Another tutorial application to help learn the fundamentals of CSS and HTML.
 - [Screenshot](#Screenshot)
 
 ## Screenshot
-![Screenshot](./assets/images/Actonemini)
+![Screenshot](./assets/images/Actonemini.PNG)
